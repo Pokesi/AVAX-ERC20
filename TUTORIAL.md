@@ -32,8 +32,13 @@ Got all that? OK, let's go!
 15) Select 'MainToken (Token.sol)' from the list below 'CONTRACT' (should be 'BasicToken (Token.sol)' by default).
 16) Then, click the 'Deploy' button and approve the transaction.
 17) Done!
-### What now?
+### Step 2: What now? 
 Your ERC20 token is on the Avalanche network!
+You can choose to mint new tokens, burn some of the supply, etc.
+You can grow your project, and build a network.
+You can build a website or more!
+You can build a payment system!
+Build the future!
 ### Donate?
 I'm entering the dev contest here: https://medium.com/avalancheavax/avalanche-launches-developer-tutorial-contest-with-50k-in-prizes-7d8b4422399f, but feel free to donate directly here! `0x3e522051A9B1958Aa1e828AC24Afba4a551DF37d`
 ## Bye! 💻
