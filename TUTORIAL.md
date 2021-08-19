@@ -13,15 +13,15 @@ Got all that? OK, let's go!
 4) Make a new file in Remix called `Token.sol`.
 5) Paste the code in the file.
 6) Search for `contract Consts {`.
-7) That defines the parameters for your token, and is pretty easy to understand, but I'll explain.
-7.1) `uint public constant TOKEN_DECIMALS = 18;` Is the token's decimals
-7.2) `uint8 public constant TOKEN_DECIMALS_UINT8 = 18;` Is the token's decimals in uint8 form
-7.3) `uint public constant TOKEN_DECIMAL_MULTIPLIER = 10 ** TOKEN_DECIMALS;` Is the decimals multiplier
-7.4) `string public constant TOKEN_NAME = "YourToken";` <-- This is important, it's your token's name.
-7.5) `string public constant TOKEN_SYMBOL = "YOUR";` <-- Also important, your token's symbol. Normally 2-5 alphanumberical characters. 
-7.6) `bool public constant PAUSED = false;` Is your token paused?
-7.7) `address public constant TARGET_USER = 0x3e522051A9B1958Aa1e828AC24Afba4a551DF37d;` <-- IMPORTANT, your address. If you don't change that you're basically saying that the initial supply is mine :)
-7.8) `bool public constant CONTINUE_MINTING = true;` Allow minting?
+7) That defines the parameters for your token, and is pretty easy to understand, but I'll explain.<br>
+7.1) `uint public constant TOKEN_DECIMALS = 18;` Is the token's decimals<br>
+7.2) `uint8 public constant TOKEN_DECIMALS_UINT8 = 18;` Is the token's decimals in uint8 form<br>
+7.3) `uint public constant TOKEN_DECIMAL_MULTIPLIER = 10 ** TOKEN_DECIMALS;` Is the decimals multiplier<br>
+7.4) `string public constant TOKEN_NAME = "YourToken";` <-- This is important, it's your token's name.<br>
+7.5) `string public constant TOKEN_SYMBOL = "YOUR";` <-- Also important, your token's symbol. Normally 2-5 alphanumberical characters.<br>
+7.6) `bool public constant PAUSED = false;` Is your token paused?<br>
+7.7) `address public constant TARGET_USER = 0x3e522051A9B1958Aa1e828AC24Afba4a551DF37d;` <-- IMPORTANT, your address. If you don't change that you're basically saying that the initial supply is mine :)<br>
+7.8) `bool public constant CONTINUE_MINTING = true;` Allow minting?<br>
 8) OK, customisation done.
 9) Click the solidity icon (second down from the top left)
 10) Select solidity 0.4.24 from the drop-down.
