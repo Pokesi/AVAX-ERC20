@@ -39,6 +39,10 @@ You can grow your project, and build a network.
 You can build a website or more!
 You can build a payment system!
 Build the future!
+### Things to note
+ - The initial supply is determined by the first mint.
+ - If `CONTINUE_MINTING` is false, the first mint will be the only mint.
+ - Too low of a gas fee will result in a transaction faliure.
 ### Donate?
 I'm entering the dev contest here: https://medium.com/avalancheavax/avalanche-launches-developer-tutorial-contest-with-50k-in-prizes-7d8b4422399f, but feel free to donate directly here! `0x3e522051A9B1958Aa1e828AC24Afba4a551DF37d`
 ## Bye! 💻
